@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "921715335696",
+    "firebase_url": "https://molly-2fd30.firebaseio.com",
+    "project_id": "molly-2fd30",
+    "storage_bucket": "molly-2fd30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921715335696:android:1432983af359dace44a095",
+        "android_client_info": {
+          "package_name": "com.refusscrimingour.molly_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921715335696-uuosd14n8qmrkn1akqb6cje5ailnvn56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJaWzIlYpl6T1LufjW9u6MuKUAevdjqU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921715335696-uuosd14n8qmrkn1akqb6cje5ailnvn56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
