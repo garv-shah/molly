@@ -7,3 +7,6 @@ The app just uses a Flutter frontend combined with a Firebase backend. This just
 
 ## Note:
 Unfortunately, I wasn't using GitHub too extensively back when I created this, so the actual archival process wasn't exactly ideal. In other words, though the website in the gh-pages branch is the most up to date version, the source code in master is actually a bit out of date, back when I only had the last page. This means that if you want to go through the code, you won't be able to see all my progress, which is a bit dissapointing :( <br>
+
+### Note for Junhua:
+molly is just a friend >:(
